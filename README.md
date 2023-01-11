@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-A tic tac toe game in HTML, CSS, and vanilla JavaScript
+A tic tac toe game created in HTML, CSS, and JavaScript
 # Objectives
 * Build a tic tac toe game in HTML, CSS, and vanilla JavaScript
 * Use best practices when writing code, DRY (Do Not Repeat Yourself) code is always a better option
@@ -14,3 +14,15 @@ A tic tac toe game in HTML, CSS, and vanilla JavaScript
 * Display a message to indicate which turn is about to be played.
 * Detect draw conditions (ties/cat's game)
 
+## Links
+- Wire Frame
+(https://wireframe.cc/bJiQ4W)
+
+- Deployed Application
+(https://perfect-actor12345.surge.sh/)
+
+## Application Screenshot
+<img src="images/tic1.png" alt="Game">
+
+## Wire Frame
+<img src="images/tic2.png" alt="Game-Wireframe">
