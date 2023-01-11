@@ -25,4 +25,4 @@ A tic tac toe game created in HTML, CSS, and JavaScript
 <img src="images/tic1.png" alt="Game">
 
 ## Wire Frame
-<img src="images/tic2.png" alt="Game-Wireframe">
+<img src="images/tic4.png" alt="Game-Wireframe">
